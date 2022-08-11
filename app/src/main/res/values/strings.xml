@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopUP</string>
+    <string name="excellent">Excellent</string>
+    <string name="very_good">Very Good</string>
+    <string name="your_rating_matters">Your Rating Matters</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="poor">Poor</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="good">Good</string>
+    <string name="rate_me">Rate Me</string>
+</resources>
